@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on teaching assistant<br> -👀 I’m interested in ... ML<br>- 🌱 I’m currently learning ... Deep Learning<br>- 💞️ I’m looking to collaborate on ... <br>- 📫 How to reach me ... a2a4alensunny@gmail.com
+- I'm currently working on AI teaching assistant<br> -👀 I’m interested in ... ML<br>- 🌱 I’m currently learning ... Deep Learning<br>- 💞️ I’m looking to collaborate on ... <br>- 📫 How to reach me ... a2a4alensunny@gmail.com
 
 
 ## 🌐 Socials:
